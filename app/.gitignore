@@ -1,0 +1,57 @@
+# Android Studio
+.idea/
+
+# User-specific files
+local.properties
+
+# Gradle files
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Android/IntelliJ specific files
+*.iml
+
+# Log files
+*.log
+*.out
+
+# Build output directories
+*/build/
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+*.o
+*.so
+
+# Kotlin specific files
+*.kt~
+
+# Android specific
+bin/
+gen/
+
+
+# NDK
+obj/
+libs/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio/Gradle settings
+
+*.idea/
+.DS_Store
+
+# JetBrains IDE specific
+*.ipr
+*.iws
+
+
+# Windows installer files
+Thumbs.db
